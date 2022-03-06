@@ -18,7 +18,7 @@ from tqdm import tqdm
 
 
 #===================#
-TOKEN = 'Njc2ODE5OTk5MjEzNDg2MTMw.XkMKXw.z6GDHkmw4FANc3zf5u3C0YOwCww'
+TOKEN = 'YOUR TOKEN HERE' # as the variable suggests ...
 BOT_PREFIX = '.'
 CURRENT_TIME = datetime.now().strftime("%d/%m/%Y %H:%M")
 bot = commands.Bot(command_prefix=BOT_PREFIX)
